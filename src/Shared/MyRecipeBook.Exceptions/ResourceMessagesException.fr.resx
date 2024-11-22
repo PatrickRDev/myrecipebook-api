@@ -117,10 +117,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="EMAIL_EMPTY" xml:space="preserve">
+    <value>Emiê vaziê</value>
+  </data>
   <data name="EMAIL_INVALID" xml:space="preserve">
     <value>Email invalide</value>
   </data>
   <data name="NAME_EMPTY" xml:space="preserve">
     <value>le nomiê not empitê</value>
+  </data>
+  <data name="PASSWORD_EMPTY" xml:space="preserve">
+    <value>Le senhê incorretê</value>
   </data>
 </root>
